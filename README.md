@@ -1,4 +1,4 @@
-I am a Ph.D. student at the Department of Statistics, University of Michigan.  
+Hi there! I am a Ph.D. student at the Department of Statistics, University of Michigan.  
 Please visit my [website](https://andleb.netlify.app/) for more details, and feel free to reach out (contact info on my website) if you have any questions or comments about my repositories!
 
 <!--
