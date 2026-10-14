@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="224" viewBox="0 0 1200 224" role="img" aria-labelledby="title desc">
+  <title id="title">Andrej Leban</title>
+  <desc id="desc">Andrej Leban, with abstract contour lines and paths on the right.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="224" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="224" fill="#101b28"/>
+    <path d="M0 223.5H1200" stroke="#26384b"/>
+    <g fill="none" stroke="#2b4858" stroke-width="1.5">
+      <path d="M767-22C719 22 741 59 824 80S946 94 929 144 906 203 981 250"/>
+      <path d="M805-22C756 20 771 49 849 67S983 95 966 145 943 207 1018 250"/>
+      <path d="M843-22C793 18 801 39 874 54S1020 96 1003 146 980 211 1055 250"/>
+      <path d="M881-22C830 16 831 29 899 41S1057 97 1040 147 1017 215 1092 250"/>
+      <path d="M919-22C867 14 861 19 924 28S1094 98 1077 148 1054 219 1129 250"/>
+      <path d="M957-22C904 12 891 9 949 15S1131 99 1114 149 1091 223 1166 250"/>
+      <path d="M995-22C941 10 921-1 974 2S1168 100 1151 150 1128 227 1203 250"/>
+    </g>
+    <path d="M752 190C805 192 807 164 856 170S926 197 968 163 1017 66 1078 61 1151 107 1209 91" fill="none" stroke="#69c6c2" stroke-width="3"/>
+    <path d="M794 223C843 211 826 124 891 116S946 144 991 111 1044 19 1096 30 1155 58 1209 22" fill="none" stroke="#ac99e3" stroke-width="2.5"/>
+    <g fill="#101b28" stroke="#69c6c2" stroke-width="3">
+      <circle cx="856" cy="170" r="5"/>
+      <circle cx="1078" cy="61" r="5"/>
+    </g>
+    <circle cx="991" cy="111" r="6" fill="#e8b35c"/>
+    <rect x="42" y="69" width="5" height="86" rx="2.5" fill="#69c6c2"/>
+    <text x="68" y="132" fill="#edf3fa" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="68" font-weight="650" letter-spacing="-2">Andrej Leban</text>
+  </g>
+</svg>
